@@ -1,5 +1,5 @@
 
-- 🌱 Atualmente estou aprendendo CSS
+- 🌱 Atualmente estudando CSS
 
  <div>
   <a href="https://github.com/risxard">
