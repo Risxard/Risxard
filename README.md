@@ -1,5 +1,5 @@
 
-- 🌱 Atualmente estudando CSS e Engenharia de software
+- 🌱 Atualmente estudando Engenharia de software e CSS
 
  <div>
   <a href="https://github.com/risxard">
