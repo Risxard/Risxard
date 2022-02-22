@@ -1,7 +1,8 @@
 # Olá, Eu sou Richardson! :D
 
-![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Risxard)
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richardson-ssouza//)
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Risxard)](https://github.com/Risxard)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richardson-ssouza/)](https://www.linkedin.com/in/richardson-ssouza/)
 
 ### Sobre mim:
 - Eu sou um estudante Front-End de desenvolvimento web 👨🏾‍💻.
