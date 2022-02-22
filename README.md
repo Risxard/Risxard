@@ -1,5 +1,13 @@
+# Olá, Eu sou Richardson! :D
 
-- 🌱 Atualmente estudando Javascript.
+![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Risxard)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richardson-ssouza//)
+
+### Sobre mim:
+- Eu sou um estudante de desenvolvimento web 👨🏾‍💻.
+- Cursando Analise e desenvolvimento de sistemas 💻🎓
+- [Gymme](https://risxard.github.io/Gymme/) 🏋️‍♀️ - Aqui você pode encontrar um de meus trabalhos.
+- [Email](mailto:richardsonphp@gmail.com?subject=RE:ContatoGitHub) 📧 - E aqui você pode entrar em contato comigo 😀.
 
  <div>
   <a href="https://github.com/risxard">
