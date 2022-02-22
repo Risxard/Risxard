@@ -7,7 +7,7 @@
 - Eu sou um estudante de desenvolvimento web 👨🏾‍💻.
 - Cursando Analise e desenvolvimento de sistemas 💻🎓
 - [Gymme](https://risxard.github.io/Gymme/) 🏋️‍♀️ - Aqui você pode encontrar um de meus trabalhos.
-- [Email](mailto:richardsonphp@gmail.com?subject=RE:ContatoGitHub) 📧 - E aqui você pode entrar em contato comigo 😀.
+- [Email](mailto:richardsonphp@gmail.com?subject=RE:Direcionado do github) 📧 - E aqui você pode entrar em contato comigo 😀.
 
  <div>
   <a href="https://github.com/risxard">
