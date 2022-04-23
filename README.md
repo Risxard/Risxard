@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richardson-ssouza/)](https://www.linkedin.com/in/richardson-ssouza/)
 
 ### Sobre mim:
-- Eu sou um estudante Front-End de desenvolvimento web 👨🏾‍💻.
+- Eu sou um estudante de Desenvolvimento Web Front-End 👨🏾‍💻.
 - Cursando Analise e desenvolvimento de sistemas 💻🎓
 - [Gymme](https://github.com/Risxard/Gymme) 🏋️‍♀️ - Aqui você pode encontrar um de meus trabalhos.
 - [Email](mailto:richardsonphp@gmail.com?subject=RE:ContatoGitHub) 📧 - E aqui você pode entrar em contato comigo 😀.
