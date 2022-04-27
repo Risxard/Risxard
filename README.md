@@ -8,6 +8,7 @@
 - Eu sou um estudante de Desenvolvimento Web Front-End 👨🏾‍💻.
 - Cursando Analise e desenvolvimento de sistemas 💻🎓
 - [Gymme](https://github.com/Risxard/Gymme) 🏋️‍♀️ - Aqui você pode encontrar um de meus trabalhos.
+- [React.js](https://risxard.github.io/React-exercicios/) ⚛︎ - Aqui são alguns exercicios de javascript em React.js .
 - [Email](mailto:richardsonphp@gmail.com?subject=RE:ContatoGitHub) 📧 - E aqui você pode entrar em contato comigo 😀.
 
  <div align="center">
