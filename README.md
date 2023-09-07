@@ -9,7 +9,6 @@
 - Tecnólogo em Analise e Desenvolvimento de Sistemas 💻🎓
 - [BD Screens](https://github.com/Risxard/BD-Screens) 🎬︎ - Acompanhe o desenvolvimento do meu projeto 😀. 
 - [Gymme](https://risxard.github.io/Gymme/) 🏋️‍♀️ - Aqui você pode encontrar um de meus projetos.
-- [React.js](https://risxard.github.io/React-exercicios/) ⚛︎ - Aqui são alguns exercicios de javascript em React.js .
 - [Email](mailto:richardsonphp@gmail.com?subject=RE:ContatoGitHub) 📧 - E aqui você pode entrar em contato comigo 😀. 
 
  <div align="center">
