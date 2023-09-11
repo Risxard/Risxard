@@ -1,4 +1,4 @@
-# Olá, Eu sou Richardson! :D
+# Hey, I'm Richardson! 👋
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Risxard)](https://github.com/Risxard)
