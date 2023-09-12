@@ -9,7 +9,6 @@
 - [Gymme](https://github.com/Risxard/Gymme) 🏋️‍♀️ - Here you can find one of my projects.
 - [BD Screens](https://github.com/Risxard/BD-Screens) 🎬︎ - A project in development. 
 - [Email](mailto:richardsonphp@gmail.com?subject=RE:ContatoGitHub) 📧 - And here you can contact me 😀.
-- 
 
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="risxard-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
