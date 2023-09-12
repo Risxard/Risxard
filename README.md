@@ -1,15 +1,14 @@
-# Hey, I'm Richardson! 👋
+# Hey, I'm Richard! 👋
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Risxard)](https://github.com/Risxard)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richardson-ssouza/)](https://www.linkedin.com/in/richardson-ssouza/)
 
-### Sobre mim:
-- Eu sou um estudante de Desenvolvimento Web Front-End 👨🏾‍💻.
-- Tecnólogo em Analise e Desenvolvimento de Sistemas 💻🎓
-- [BD Screens](https://github.com/Risxard/BD-Screens) 🎬︎ - Acompanhe o desenvolvimento do meu projeto 😀. 
-- [Gymme](https://github.com/Risxard/Gymme) 🏋️‍♀️ - Aqui você pode encontrar um de meus projetos.
-- [Email](mailto:richardsonphp@gmail.com?subject=RE:ContatoGitHub) 📧 - E aqui você pode entrar em contato comigo 😀. 
+### About me:
+- I am a Front-End development student 👨🏾‍💻.
+- [Gymme](https://github.com/Risxard/Gymme) 🏋️‍♀️ - Here you can find one of my projects.
+- [BD Screens](https://github.com/Risxard/BD-Screens) 🎬︎ - A project in development. 
+- [Email](mailto:richardsonphp@gmail.com?subject=RE:ContatoGitHub) 📧 - And here you can contact me 😀. 
 
  <div align="center">
   <a href="https://github.com/risxard">
