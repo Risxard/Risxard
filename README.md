@@ -2,7 +2,7 @@
 <h3 align="center">I am a Front-End development student 👨🏾‍💻.</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richardson-ssouza/)](https://www.linkedin.com/in/richardson-ssouza/)
-<img align="right" justify="top" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcncwcjJ5bjI0NzNyY2E1dm1rZHV5cWhxMDBrNXJhcjVtcDNwNHA5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 ### About me:
 - 🎬︎ I’m currently working on [BD Screens](https://github.com/Risxard/BD-Screens)
