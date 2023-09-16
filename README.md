@@ -3,6 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richardson-ssouza/)](https://www.linkedin.com/in/richardson-ssouza/)
 
+<img  align="right" src="https://github.com/Risxard/Risxard/assets/88140056/52137125-e7e5-48ef-a4f7-ac7af2ade4f4.gif">
 
 ### About me:
 - 🎬︎ I’m currently working on [BD Screens](https://github.com/Risxard/BD-Screens)
@@ -19,7 +20,7 @@
  <br>
   <div align="center">
     <a href="https://github.com/risxard">
-    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=risxard&theme=default"/>
+    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=risxard&theme=dark"/>
   </div>
 
   
