@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Richardson</h1>
 <h3 align="center">I am a Front-End development student 👨🏾‍💻</h3>
-<img  align="right" src="https://github.com/Risxard/Risxard/assets/88140056/52137125-e7e5-48ef-a4f7-ac7af2ade4f4.gif" width="500px" height="500px">
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richardson-ssouza/)](https://www.linkedin.com/in/richardson-ssouza/)
 
