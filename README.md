@@ -9,7 +9,7 @@
 ### About me:
 - 🎬︎ I’m currently working on [BD Screens](https://github.com/Risxard/BD-Screens)
 - 🌱 I’m currently learning **Javascript and React**
-- 👨‍💻 All of my projects are available at [www.richardsonsouza.com](https://.richardsonsouza.com)
+- 👨‍💻 All of my projects are available at [www.richardsonsouza.com](https://richardsonsouza.com)
 - 📫 How to reach me **richardsonphp@gmail.com**
 
   <div style="display: inline_block" align="left"><br>
