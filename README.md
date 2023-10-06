@@ -2,7 +2,8 @@
 <h3 align="center">I am a Front-End development student 👨🏾‍💻</h3>
 <img align="right" src="https://github.com/Risxard/Risxard/assets/88140056/52137125-e7e5-48ef-a4f7-ac7af2ade4f4.gif" width="400px" height="400px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richardson-ssouza/)](https://www.linkedin.com/in/richardson-ssouza/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/richardson-ssouza/)](https://www.linkedin.com/in/richardson-ssouza/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://richardsonsouza.com)](https://richardsonsouza.com)
 
 
 
