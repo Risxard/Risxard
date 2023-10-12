@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richardson</h1>
 <h3 align="center">I am a Front-End development student 👨🏾‍💻</h3>
-<img align="right" src="https://github.com/Risxard/Risxard/assets/88140056/52137125-e7e5-48ef-a4f7-ac7af2ade4f4.gif" width="400px" height="400px">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/richardson-ssouza/)](https://www.linkedin.com/in/richardson-ssouza/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://richardsonsouza.com)](https://richardsonsouza.com)
@@ -20,10 +19,17 @@
   <img align="center" alt="risxard-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   </div>
  <br>
-  <div align="center">
-    <a href="https://github.com/risxard">
-    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=risxard&theme=dark"/>
+ 
+  <div>
+    <a href="https://github.com/risxard" >
+    <img height=200 align="left"  height="200" src="https://github-readme-stats.vercel.app/api?username=risxard&theme=dark"/>
+    <a/>
+    <a href="https://github.com/risxard" >
+    <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risxard&layout=compact&theme=dark"/>
+    </a>
   </div>
+
+
 
   
 
