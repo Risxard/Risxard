@@ -20,12 +20,12 @@
   </div>
  <br>
  
-  <div>
+  <div align= "center">
     <a href="https://github.com/risxard" >
-    <img height=200 align="left"  height="200" src="https://github-readme-stats.vercel.app/api?username=risxard&theme=dark"/>
+    <img height=200  height="200" src="https://github-readme-stats.vercel.app/api?username=risxard&theme=dark"/>
     <a/>
     <a href="https://github.com/risxard" >
-    <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risxard&layout=compact&theme=dark"/>
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=risxard&layout=compact&theme=dark"/>
     </a>
   </div>
 
