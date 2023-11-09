@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richardson</h1>
-<h3 align="center">I am a Front-End development student 👨🏾‍💻</h3>
+<h3 align="center">I am a Front-End Developer 👨🏾‍💻</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/richardson-ssouza/)](https://www.linkedin.com/in/richardson-ssouza/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://richardsonsouza.com)](https://richardsonsouza.com)
