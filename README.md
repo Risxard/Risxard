@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Richardson</h1>
+<h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">I am a Front-End Developer 👨🏾‍💻</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/richardson-ssouza/)](https://www.linkedin.com/in/richardson-ssouza/)
