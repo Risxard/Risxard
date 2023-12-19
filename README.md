@@ -8,7 +8,7 @@
 
 ### About me:
 - 🎬︎ I’m currently working on [BD Screens](https://github.com/Risxard/BD-Screens)
-- 🌱 I’m currently learning **TypeScript and React.js **
+- 🌱 I’m currently learning **TypeScript and React.js**
 - 👨‍💻 All of my projects are available at [www.richardsonsouza.com](https://richardsonsouza.com)
 - 📫 How to reach me **richardsonphp@gmail.com**
 
