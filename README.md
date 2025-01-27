@@ -8,7 +8,7 @@
 
 ### About me:
 - 🎬︎ I’m currently working on [PlumSecurity](https://github.com/Risxard/PlumSecurity)
-- 🌱 I'm currently learning and coding in **TypeScript and React.js** during the week, and learning **C#** on the weekend.
+- 🌱 I'm currently learning and coding in **TypeScript and React.js** .
 - 👨‍💻 All of my projects are available at [www.richardsonsouza.com](https://richardsonsouza.com)
 - 📫 How to reach me **richardsonphp@gmail.com**
 
